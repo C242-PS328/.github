@@ -26,15 +26,15 @@ Urban agriculture is gaining traction as a sustainable approach to address food 
 
 ## Team Members and Roles
 
-| Role               | Name                          | University                                           |
-|--------------------|-------------------------------|------------------------------------------------------|
-| **Machine Learning (ML)** | Yuliani Purwitasari | Universitas Pembangunan Nasional “Veteran” Jawa Timur |
-| **Machine Learning (ML)** | Navy Nurlyn Ajrina | Universitas Pembangunan Nasional “Veteran” Jawa Timur |
-| **Machine Learning (ML)** | Putri Intan Octavia Br Sipayung | Universitas Pembangunan Nasional “Veteran” Jawa Timur |
-| **Cloud Computing (CC)**  | Fathimatus Zahrotun Nisa’ | Universitas Pembangunan Nasional “Veteran” Jawa Timur |
-| **Cloud Computing (CC)**  | Muhammad Farhan Hidayatullah | Universitas Pembangunan Nasional “Veteran” Jawa Timur |
-| **Mobile Development (MD)** | Azzahra Rahmadani | Universitas Pembangunan Nasional “Veteran” Jawa Timur |
-| **Mobile Development (MD)** | Aldhi Saputra | Universitas PGRI Ronggolawe |
+| Role                  | Bangkit ID   | Name                               | University                                           | GitHub Profile                              |
+|-----------------------|--------------|------------------------------------|-----------------------------------------------------|---------------------------------------------|
+| **Machine Learning (ML)** | M296B4KX4566 | Yuliani Purwitasari               | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [ririsariii](https://github.com/ririsariii) |
+| **Machine Learning (ML)** | M296B4KX3303 | Navy Nurlyn Ajrina                | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [NavyNurlyn](https://github.com/NavyNurlyn) |
+| **Machine Learning (ML)** | M296B4KX3519 | Putri Intan Octavia Br Sipayung   | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [putriintan](https://github.com/putriintan) |
+| **Cloud Computing (CC)**  | C296B4KX1431 | Fathimatus Zahrotun Nisa’         | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [FathimatusZN](https://github.com/FathimatusZN) |
+| **Cloud Computing (CC)**  | C296B4KY2822 | Muhammad Farhan Hidayatulloh      | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [Muhfarhan90](https://github.com/Muhfarhan90) |
+| **Mobile Development (MD)** | A296B4KX0780 | Azzahra Rahmadani                 | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [azzahra](https://github.com/azzahraramadani) |
+| **Mobile Development (MD)** | A464B4KY0325 | Aldhi Saputra                     | Universitas PGRI Ronggolawe                        | [Aldhisaputra](https://github.com/Aldhisaputra) |
 
 ## Technology Stack
 
