@@ -13,7 +13,7 @@ Grow Smarter, Care Better, Thrive Together
 | M296B4KX3519       | Putri Intan Octavia Br Sipayung   | ML            | [putriintan](https://github.com/putriintan) |
 | C296B4KX1431       | Fathimatus Zahrotun Nisa’         | CC            | [FathimatusZN](https://github.com/FathimatusZN) |
 | C296B4KY2822       | Muhammad Farhan Hidayatulloh      | CC            | [Muhfarhan90](https://github.com/Muhfarhan90) |
-| A296B4KX0780       | Azzahra Rahmadani                 | MD            | [azzahra](https://github.com/azzahraramadani) |
+| A296B4KX0780       | Azzahra Rahmadani                 | MD            | [azzahrardn](https://github.com/azzahrardn) |
 | A464B4KY0325       | Aldhi Saputra                     | MD            | [Aldhisaputra](https://github.com/Aldhisaputra) |
 
 ## About the Project
