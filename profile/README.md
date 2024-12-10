@@ -42,9 +42,9 @@ Urban agriculture is gaining traction as a sustainable approach to address food 
 | **Mobile Development (MD)** | A464B4KY0325 | Aldhi Saputra                     | Universitas PGRI Ronggolawe                        | [Aldhisaputra](https://github.com/Aldhisaputra) |
 
 ## Repositories
-- [Tanamore Machine Learning (Datasets & Models)]([https://github.com/username/tanamore-ml](https://github.com/Tanamore/machine_learning)): Contains datasets, machine learning models, and training scripts.
-- [Tanamore Cloud Computing (Backend Service)]([https://github.com/username/tanamore-backend](https://github.com/Tanamore/backend-api)): Backend service with Google Cloud integration.
-- [Tanamore Mobile Development (Mobile App)]([https://github.com/username/tanamore-android](https://github.com/Tanamore/mobile_developer)): Android app for Tanamore.
+- [Tanamore Machine Learning (Datasets & Models)](https://github.com/Tanamore/machine_learning): Contains datasets, machine learning models, and training scripts.
+- [Tanamore Cloud Computing (Backend Service)](https://github.com/Tanamore/backend-api): Backend service with Google Cloud integration.
+- [Tanamore Mobile Development (Mobile App)](https://github.com/Tanamore/mobile_developer): Android app for Tanamore.
 
 ## Technology Stack
 
