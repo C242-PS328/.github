@@ -1,4 +1,5 @@
 # Tanamore 🌱
+![Logo Tanamore](https://github.com/user-attachments/assets/fc9f0d68-f16d-490b-b1b6-a515dc55a903)
 
 **Capstone Project for Urban Gardening Support Application**
 
