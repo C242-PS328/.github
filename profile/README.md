@@ -44,7 +44,7 @@ Urban agriculture is gaining traction as a sustainable approach to address food 
 ## Repositories
 - [Tanamore Machine Learning (Datasets & Models)](https://github.com/Tanamore/machine_learning): Contains datasets, machine learning models, and training scripts.
 - [Tanamore Cloud Computing (Backend Service)](https://github.com/Tanamore/backend-api): Backend service with Google Cloud integration.
-- [Tanamore Mobile Development (Mobile App)](https://github.com/Tanamore/mobile_developer): Android app for Tanamore.
+- [Tanamore Mobile Development (Mobile App)](https://github.com/Tanamore/Mobile-Developer-Complete): Android app for Tanamore.
 
 ## Technology Stack
 
