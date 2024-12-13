@@ -35,7 +35,7 @@ Urban agriculture is gaining traction as a sustainable approach to address food 
 |-----------------------|--------------|------------------------------------|-----------------------------------------------------|---------------------------------------------|
 | **Machine Learning (ML)** | M296B4KX4566 | Yuliani Purwitasari               | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [ririsariii](https://github.com/ririsariii) |
 | **Machine Learning (ML)** | M296B4KX3303 | Navy Nurlyn Ajrina                | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [NavyNurlyn](https://github.com/NavyNurlyn) |
-| **Machine Learning (ML)** | M296B4KX3519 | Putri Intan Octavia Br Sipayung   | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [putriintan](https://github.com/putriintan) |
+| **Machine Learning (ML)** | M296B4KX3519 | Putri Intan Octavia Br Sipayung   | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [putriintans](https://github.com/putriintans) |
 | **Cloud Computing (CC)**  | C296B4KX1431 | Fathimatus Zahrotun Nisa’         | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [FathimatusZN](https://github.com/FathimatusZN) |
 | **Cloud Computing (CC)**  | C296B4KY2822 | Muhammad Farhan Hidayatulloh      | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [Muhfarhan90](https://github.com/Muhfarhan90) |
 | **Mobile Development (MD)** | A296B4KX0780 | Azzahra Rahmadani                 | Universitas Pembangunan Nasional “Veteran” Jawa Timur | [azzahraramadani](https://github.com/azzahraramadani) |
